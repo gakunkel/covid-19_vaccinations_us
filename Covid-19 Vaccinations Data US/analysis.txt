@@ -1,0 +1,12 @@
+US COVID-19 Vaccination Progress
+-----------------------------------
+
+1.) Between 12/20/2020 and 05/08/2021, the United States as a whole has done an impressive job of dramatically decreasing the occurrence of new cases and deaths from Covid-19. This can be attributed to the steadily increasing percentage of Americans who have been fully vaccinated, which as of 05/08/2021 is nearing 35%.
+
+2.) The United States continues to consistently administer a high percentage of available/distributed vaccine doses to the public.
+
+3.) Amongst states and territories and adjusting for population size, the Republic of Palau has administered the most Covid-19 vaccine doses (115,123 per 100,000 residents), while the Federated States of Micronesia has administered the fewest (35,830 per 100,000 residents). Note: these numbers account for doses administered, not people fully vaccinated. The majority of US states and territories hover between 60,000 and 90,000 doses per 100,000 residents.
+
+4.) Vaccinations per day in the United States peaked at 3,384,387 on 04/13/2021. Daily vaccinations have been decreasing since this date.
+
+5.) Most states have fully vaccinated 30-40% of their population.
